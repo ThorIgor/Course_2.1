@@ -1,0 +1,7 @@
+C:\Users\Igor\Source\Repos\IgorClassWork\IgorClassWork\bin\Debug\IgorClassWork.exe.config
+C:\Users\Igor\Source\Repos\IgorClassWork\IgorClassWork\bin\Debug\IgorClassWork.exe
+C:\Users\Igor\Source\Repos\IgorClassWork\IgorClassWork\bin\Debug\IgorClassWork.pdb
+C:\Users\Igor\Source\Repos\IgorClassWork\IgorClassWork\obj\Debug\IgorClassWork.csprojAssemblyReference.cache
+C:\Users\Igor\Source\Repos\IgorClassWork\IgorClassWork\obj\Debug\IgorClassWork.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Source\Repos\IgorClassWork\IgorClassWork\obj\Debug\IgorClassWork.exe
+C:\Users\Igor\Source\Repos\IgorClassWork\IgorClassWork\obj\Debug\IgorClassWork.pdb

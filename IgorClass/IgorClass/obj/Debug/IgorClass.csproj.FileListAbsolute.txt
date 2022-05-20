@@ -1,0 +1,10 @@
+C:\Users\Igor\Source\Repos\IgorClass\IgorClass\bin\Debug\IgorClass.exe.config
+C:\Users\Igor\Source\Repos\IgorClass\IgorClass\bin\Debug\IgorClass.exe
+C:\Users\Igor\Source\Repos\IgorClass\IgorClass\bin\Debug\IgorClass.pdb
+C:\Users\Igor\Source\Repos\IgorClass\IgorClass\obj\Debug\IgorClass.csprojAssemblyReference.cache
+C:\Users\Igor\Source\Repos\IgorClass\IgorClass\obj\Debug\IgorClass.Form1.resources
+C:\Users\Igor\Source\Repos\IgorClass\IgorClass\obj\Debug\IgorClass.Properties.Resources.resources
+C:\Users\Igor\Source\Repos\IgorClass\IgorClass\obj\Debug\IgorClass.csproj.GenerateResource.cache
+C:\Users\Igor\Source\Repos\IgorClass\IgorClass\obj\Debug\IgorClass.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Source\Repos\IgorClass\IgorClass\obj\Debug\IgorClass.exe
+C:\Users\Igor\Source\Repos\IgorClass\IgorClass\obj\Debug\IgorClass.pdb

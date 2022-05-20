@@ -1,0 +1,7 @@
+C:\Users\Igor\Source\Repos\NaTusu\NaTusu\bin\Debug\NaTusu.exe.config
+C:\Users\Igor\Source\Repos\NaTusu\NaTusu\bin\Debug\NaTusu.exe
+C:\Users\Igor\Source\Repos\NaTusu\NaTusu\bin\Debug\NaTusu.pdb
+C:\Users\Igor\Source\Repos\NaTusu\NaTusu\obj\Debug\NaTusu.csprojAssemblyReference.cache
+C:\Users\Igor\Source\Repos\NaTusu\NaTusu\obj\Debug\NaTusu.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Source\Repos\NaTusu\NaTusu\obj\Debug\NaTusu.exe
+C:\Users\Igor\Source\Repos\NaTusu\NaTusu\obj\Debug\NaTusu.pdb
